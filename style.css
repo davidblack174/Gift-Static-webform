@@ -1,3 +1,5 @@
-@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
-
-/* Your custom CSS code goes here */
+form {
+    border: 2px solid #000;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    padding: 10%;
+}
